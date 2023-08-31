@@ -1,5 +1,15 @@
 # Remotion video
 
+A demo on how to create a karaoke video with Remotion.
+
+Install Whisper from GitHub and run `node sub.mjs` to generate subtitles. The rest is automatic! (Except the song title at the bottom)
+
+
+
+https://github.com/JonnyBurger/karaoke/assets/1629785/a8a5739c-ca28-46eb-aa23-7ce841d256cc
+
+
+
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
     <picture>
